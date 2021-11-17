@@ -5,3 +5,8 @@ pip install labelImg -i https://pypi.tuna.tsinghua.edu.cn/simple/ （Img中的I�
 
 
 labelImg
+
+
+
+![image](https://user-images.githubusercontent.com/50350039/142206350-72fae397-58ad-47fe-b5cb-d5ea376eb136.png)
+
